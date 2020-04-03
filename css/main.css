@@ -582,6 +582,10 @@ header {
   height: 800px; 
 }
 
+.openbtn {
+  font-size: 3em;
+}
+
 .full-width {
   height: 800px; 
 }
